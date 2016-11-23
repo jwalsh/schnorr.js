@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jwalsh/schnorr.js#readme",
   "devDependencies": {
     "documentation": "^4.0.0-beta14"
+  },
+  "dependencies": {
+    "@jwalsh/djbec.js": "^1.0.0"
   }
 }
